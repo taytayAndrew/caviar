@@ -1,15 +1,10 @@
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+taytayAndrew;+Welcome+to+My+Profile!;Always+learning+new+things+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+taytayAndrew;+Welcome+to+My+Profile!;Always+learning+new+things+)](https://git.io/typing-svg)  
 
-<!--   my-header-img -->
-![](./src/header_.png)
-<img src="./images/header_.png" align="right"  >
-
-
-
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
-
-## 前端工程师—猫吃清蒸鱼
+<a><img src="./images/header_.png" > </a>    
+                                      
+                                        
+## 前端工程师—猫吃清蒸鱼  
 
 热爱前端、热爱技术。目前是大三学生正在实习中，努力沉淀中
 
