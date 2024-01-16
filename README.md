@@ -9,7 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://www.yuque.com/wushiyuandeqingzhengyu"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
+-   <a href="https://www.yuque.com/wushiyuandeqingzhengyu"><code><img height="20" width="30" src="./images/yuque.webp"></code></a>:目前在语雀写博客，欢迎大家一起学习👯
 
 ### **技术栈:**
 
