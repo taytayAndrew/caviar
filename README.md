@@ -1,6 +1,9 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+taytayAndrew;+Welcome+to+My+Profile!;Always+learning+new+things+)](https://git.io/typing-svg)
 
+<!--   my-header-img -->
+![](./src/header_.png)
+<img src="./images/header_.png" align="right"  >
 
 
 
@@ -29,3 +32,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taytayAndrew&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taytayAndrew&layout=compact&langs_count=6)
+
+### 📈 GitHub Activity Graph:
+<!-- [![taytayAndrew's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=taytayAndrew=github-compact)](https://github.com/taytayAndrew/github-readme-activity-graph) -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+
+
