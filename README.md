@@ -1,3 +1,9 @@
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+taytayAndrew;+Welcome+to+My+Profile!;Always+learning+new+things+)](https://git.io/typing-svg)
+
+
+
+
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
 ## 前端工程师—猫吃清蒸鱼
