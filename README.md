@@ -13,7 +13,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://www.yuque.com/wushiyuandeqingzhengyu"><code><img height="20" width="30" src="./images/yuque.webp"></code></a>:目前在语雀写博客，欢迎大家一起学习👯
+-   <a href="https://www.yuque.com/zoeblog"><code><img height="20" width="30" src="./images/yuque.webp"></code></a>:目前在语雀写博客，欢迎大家一起学习👯
 
 ### **技术栈:**
 
